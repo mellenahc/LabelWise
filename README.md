@@ -1,2 +1,2 @@
 # LabelWise
-Scratch Version of Label Wise. 
+Scratch Version of SkinWise. 
